@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CosmosGettingStartedTutorial
+build_property.ProjectDir = /home/abhishek/Downloads/DocumentDB-Quickstart-DotNet/sql-dotnet/CosmosGettingStartedTutorial/
